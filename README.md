@@ -1,1 +1,2 @@
-# Projeto_individual_M2
+#<h1 align="center"> Projeto individual módulo 2 </h1>
+Este relatório detalha um aplicativo desenvolvido em Python que avalia a compatibilidade de candidatos com uma vaga de emprego, com base em suas avaliações em quatro etapas de um processo seletivo: entrevista, teste teórico, teste prático e avaliação de soft skills. O código utiliza dicionários para armazenar informações sobre os candidatos, oferecendo uma estrutura organizada e flexível.
